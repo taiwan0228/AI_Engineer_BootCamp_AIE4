@@ -1,0 +1,2 @@
+Hello, world!  This is the first text file that I created using WSL 2 with Ubuntu Operating System.
+I am trying to learn Github with Chris, "the Whiz".
